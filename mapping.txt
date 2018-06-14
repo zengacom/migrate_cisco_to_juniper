@@ -1,0 +1,2 @@
+pdist1.akz-ah0001
+TenGigabitEthernet2/1 xe-0/0/41 10.32.0.40 ACX
